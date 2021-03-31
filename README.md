@@ -1,5 +1,2 @@
-# Epilepsyproject
-A bunch of flashing colors.
-
-A lot of the files will be missing documentation in the code.
-This project is made purely for my learning experience.
+# ColorPlayground (originally called EpilepsyProject)
+This is a project i've used to play around with python and learn the language. The project may include A LOT of flashing colors.
